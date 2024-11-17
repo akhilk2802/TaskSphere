@@ -1,5 +1,8 @@
 # TaskSphere 
 
+# This project was done as a part of Object Oriented Design (CSYE 6200) Course-work, and have been uploaded here from private university github profile.
+
+
 TaskSphere is a collaborative project and task management system inspired by Kanban principles. It offers a visual  board for streamlined project organization, allowing users to create, assign, and track tasks effectively. With features such as detailed task management, real-time progress monitoring, and user assignments, TaskSphere facilitates seamless collaboration. Authentication is handled through JWT tokens, ensuring secure user access. The system also supports export/import functionalities for efficient project management. TaskSphere aims to enhance team coordination and project success with its user-friendly interface and robust features.
 
 # Index
