@@ -7,11 +7,10 @@ TaskSphere is a collaborative project and task management system inspired by Kan
 2. [Tech Stack](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#tech-stack)
 3. [Flows](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#flows)
 4. [Concepts Used](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#concepts-used-few-examples)
-5. [Individual Contributions](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#induvidual-contributions)
-6. [Class Diagram](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#class-diagram)
-7. [Steps to Setup Backend](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#steps-to-setup-backend)
-8. [Steps to Setup Frontend](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#steps-to-setup-frontend)
-9. [Swagger Documentation](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#swagger-documentation)
+5. [Class Diagram](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#class-diagram)
+6. [Steps to Setup Backend](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#steps-to-setup-backend)
+7. [Steps to Setup Frontend](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#steps-to-setup-frontend)
+8. [Swagger Documentation](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19#swagger-documentation)
 
 # Tech Stack
 
@@ -221,18 +220,6 @@ for (Project p : projects) {
    - packages: `controller`, `service`, `repository`, `model`, `entity`
    - The MVC pattern is implicitly applied in the task management module. The `Controller` acts as the controller, handling user input and directing it to the `ServiceImpl` for processing. The `DTO` & `Entity` serves as the model, representing the data, and the view is represented by the API endpoints, which return responses to the user.
 
-
-# Induvidual Contributions
-
-| Name                  | NU ID       | Contributions                                                                                                         
-|-----------------------|-------------|-----------------------------------------------------------------------------------------------------------------------
-| Aashish Chaple        | #002680570  | Streams, Enums, Strategy Pattern, MVC Design Pattern
-| Akhileshkumar Kumbar  | #002201470  | Lazy Singleton Design Pattern, Enum Singleton Factory Pattern
-| Akshay Bharadwaj      | #002745765  | Observer Design Pattern, Streams, MVC Design Pattern
-| Pritesh Nimje         | #002817324  | Repository Pattern, Observer Pattern, MVC Design Pattern, Streams
-| Ruchika Shashidhara   | #002245068  | Comparable, Streams, Enum Singleton & Lazy Singleton Factory Pattern
-| Sai Geeta Acharya     | #002627749  | Comparator, Inner Classes, Eager Singleton Factory Pattern
-| Yuchen Zhang          | #002646829  | CSV Files, Repository Design Pattern, MVC Design Pattern
 
 # Class Diagram
 ![tasksphere](https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-19/assets/144740650/e75ca690-b27a-400c-b5d3-9a3fd3f19254)
